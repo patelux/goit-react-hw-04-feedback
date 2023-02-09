@@ -1,0 +1,9 @@
+.title {
+    margin: 30px auto;
+    text-align: center;
+    text-transform: uppercase;
+    font-family:'Times New Roman', Times, cursive;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 1.27;
+}
